@@ -1,6 +1,7 @@
 # Orange County Food Pantry Accessibility Analysis
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/heba.abdelrazzak/viz/FoodBankDashboard_17284458855700/Main)
+- [Data Analysis Process](SecondHarvest.md)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/heba.abdelrazzak/viz/FoodBankDashboard_17284458855700/Main)
 
 ## Overview
 An interactive data visualization dashboard analyzing food pantry accessibility across Orange County, California. This analysis examines the distribution of food assistance resources relative to community needs using census tract and block group level data.
